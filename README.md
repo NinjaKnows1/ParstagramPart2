@@ -33,8 +33,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-<https://github.com/ChloeZhang1/ParstagramPart2/blob/main/ParstagramWalkThrouh2.gif' />
+<img src='https://github.com/ChloeZhang1/ParstagramPart2/blob/main/ParstagramWalkThrouh2.gif' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
