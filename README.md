@@ -1,5 +1,4 @@
-# ParstagramPart2
- # Project 3 - *Name of App Here*
+ # Project 3 - *ParstagramPart2*
 
 **Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
 
